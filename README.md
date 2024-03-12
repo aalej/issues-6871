@@ -3,7 +3,8 @@
 ## Versions
 
 firebase-tools: v13.4.1<br>
-platform: macOs Sonoma 14.3.1
+platform: macOs Sonoma 14.3.1<br>
+node: v20.10.0
 
 ## Steps to reproduce
 
