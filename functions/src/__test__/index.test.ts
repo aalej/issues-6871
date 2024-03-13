@@ -6,6 +6,6 @@ it("should correctly load .env.local and .env.demo-project", async () => {
   console.log(resText); // Log the message
 
   expect(resText).toEqual(
-    "Hello message from local! I am a function. From your demo project"
+    "Hello message from local! I am a function. From your demo project with clientId ClientId123"
   );
 });
